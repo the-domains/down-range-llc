@@ -6,22 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: Land Navigation
-datePublished: '2016-03-11T00:52:53.126Z'
-dateModified: '2016-03-11T00:21:38.841Z'
+datePublished: '2016-03-11T16:47:31.779Z'
+dateModified: '2016-03-11T16:47:15.768Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-11-land-navigation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-land-navigation.md
-published: true
 url: land-navigation/index.html
 _type: Article
 
 ---
+Our experienced staff have a strong background in a wide range of subjects dealing with the outdoors.
+
+We conduct our training in a safe and controlled environment at all times.
+
+Whether it be a 2 day map and compass class or a 5 day survival exercise in the mountains, the cadre at Downrange has it covered.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70103fc2-4ea3-4434-89fd-133a776d65a4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bde912ac-3e26-49cc-a743-7b0a0e1259a4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27abb6d7-0baa-4814-93f6-e6c15764616c.jpg)
