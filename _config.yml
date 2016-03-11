@@ -1,0 +1,28 @@
+name: Down Range LLC
+favicon: null
+layout_spectrum: 0.069277408067137
+typography_spectrum: 0.039583180798217654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6698872451670468
+  lightness: 0.8769515531603247
+  saturation: 0.37401059409603477
+  rhythmicContrast: 0.6087265310343355
+purpose: []
